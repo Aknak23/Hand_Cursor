@@ -1,0 +1,5 @@
+Command shift P = select interpreter -> make a venv (only do it once at creation of repo)
+
+source .venv/bin/activate
+
+pip install [name of library] (e.g. pip install numpy)
